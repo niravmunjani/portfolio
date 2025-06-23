@@ -6,7 +6,7 @@ export default function Home() {
       <section className="max-w-6xl mx-auto">
         <header className="text-center mb-16">
           <h1 className="text-5xl font-extrabold text-indigo-800 mb-4">Nirav Munjani</h1>
-          <p className="text-xl text-gray-700">Engineering Management Graduate | Process & Quality Specialist</p>
+          <p className="text-xl text-gray-700">Engineering Management Graduate | Process & Quality Specialist | Lean Manufacturing</p>
           <button className="mt-6 px-6 py-3 bg-indigo-600 text-white hover:bg-indigo-700 transition rounded-xl shadow-lg">Download Resume</button>
         </header>
 
